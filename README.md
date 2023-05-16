@@ -1,0 +1,1 @@
+#show and hide text in jquery practice
